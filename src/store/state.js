@@ -6,6 +6,7 @@ export const DEFAULT_STATE = {
     counter: 0
   },
   backwards: {
+    randomJazz: true,
     counter: 0
   }
 }
